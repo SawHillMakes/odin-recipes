@@ -1,1 +1,1 @@
-# odin-recipes
+# Created a simple website using only HTML. The goal of this project is to get used to creating layouts using HTML and adding links to other webpages. Multiple links were created, each with their own webpage that include an image, and a link back to the home page. 
